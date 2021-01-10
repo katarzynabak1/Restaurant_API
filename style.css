@@ -1,0 +1,24 @@
+body{
+    background-image: url("rachel-park-hrlvr2ZlUNk-unsplash.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.card {
+    display: flex;
+    flex-flow: row wrap;
+    margin: .5rem;
+    padding: 1rem;
+    max-width: 25%;
+  }
+  .ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+    margin-left: 50px;
+    color: pink;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
